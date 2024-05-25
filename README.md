@@ -3,11 +3,11 @@ Aquí tiene mi perfil de LinkedIn, por si quiere echarle un vistazo:
 
 <a href="https://www.linkedin.com/in/josemanuelmoreno2702/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-En esta página de GiitHub podrá ver una versión mucho más completa de mi perfil, la cual espero que complemente lo que ha podido ver en mi resume y mi perfil de LinkedIn, al cual habrá podido acceder desde el hipervínculo de mi resume o, si aún no lo ha hecho, con el botón que puede ver más arriba.
+En esta página de GitHub podrá ver una versión mucho más completa de mi perfil, la cual espero que complemente lo que ha podido ver en mi resume y mi perfil de LinkedIn, al cual habrá podido acceder desde el hipervínculo de mi resume o, si aún no lo ha hecho, con el botón que puede ver más arriba.
 
 En esta página tendrá enlaces a cada uno de mis proyectos (los cuales estarán escritos a un nivel más técnico. Intentaré de todos modos que sean comprensibles también para personas con algo menos de conocimiento técnico), así como los cursos que he realizado siempre y cuando estos hayan sido en una plataforma online.
 
-Espero que la lectura se le haga amena, que le sirva para conocerme mucho mejor y que le demuestr e mis habilidades a un nivel más prefundo del que pudiese hacerlo cualquier conversación que podamos tener.
+Espero que la lectura se le haga amena, que le sirva para conocerme mucho mejor y que le demuestre mis habilidades a un nivel más profundo del que pudiese hacerlo cualquier conversación que podamos tener.
 
 ## Sobre mí.
 
@@ -18,19 +18,18 @@ Mi formación la complemento con habilidades diversas, como el conocimiento de d
 
 ## Objective
 
-Como científico, me siento atraído hacia problemas complicados que requieran de una forma de pensar ingeniosa, es por eso que me gustaría poder cambiar la investigación en el mundo académico por un puesto como analista en el mundo empresarial, idealmente como un analista de datos, analista BI, científico de datos o analista de ciberseguridad T1 en un SOC.  
+Como científico, me siento atraído hacia problemas complicados que requieran de una forma de pensar ingeniosa, es por eso que me gustaría poder cambiar la investigación en el mundo académico por un puesto como analista en el mundo empresarial, idealmente como un analista de datos, analista BI, científico de datos o analista de ciberseguridad T1 en un SOC.
 
-## Skills
+## Skills y Proyectos
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Proyecto         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Creación de pipelines con Python          | <a href="https://google.com">Data ETL Pipeline: Python-Powered Excel Wizard</a>|
+| Simulaciones en Física nuclear con C++    | <a href="https://google.com">Simulating n and gamma Particle Detection</a> |
+| Análisis Forense                          | <a href="https://google.com">Cibersecurity Training: picoCTF</a> |
+| Honeypots y detección de ataques | <a href="https://google.com">SOC Lab: Honeypots with Tpot</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -64,7 +63,3 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project

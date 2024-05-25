@@ -35,6 +35,7 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 ## Cursos
 
 | Curso | Estado | 
+|-------|--------|
 | <a href="https://learn.microsoft.com/es-es/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/"> Configuración de operaciones de seguridad de SIEM mediante Microsoft Sentinel</a> | En curso |
 | <a href="https://learn.microsoft.com/es-es/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification">SC 200 Microsoft Certified: Security Operations Analyst Associate</a> | En curso |
 | <a href="https://learn.microsoft.com/es-es/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification">SC 900 Seguridad, cumplimiento y fundamentos de identidad de Microsoft</a> | En curso |
@@ -48,6 +49,7 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 ## Certificados
 
 | Certificado | Obtenido |
+|-------------|----------|
 | Configuración de operaciones de seguridad de SIEM mediante Microsoft Sentinel | No |
 | SC 200 Microsoft Certified: Security Operations Analyst Associate | No |
 | SC 900 Seguridad, cumplimiento y fundamentos de identidad de Microsoft | No |

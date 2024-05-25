@@ -23,43 +23,34 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 ## Skills y Proyectos
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Proyecto         |
-|-----------------------------------------------|----------------------------|
-| Creación de pipelines con Python          | <a href="https://google.com">Data ETL Pipeline: Python-Powered Excel Wizard</a>|
-| Simulaciones en Física nuclear con C++    | <a href="https://google.com">Simulating n and gamma Particle Detection</a> |
-| Análisis Forense                          | <a href="https://google.com">Cibersecurity Training: picoCTF</a> |
-| Honeypots y detección de ataques | <a href="https://google.com">SOC Lab: Honeypots with Tpot</a>|
+| Skill                                         | Proyecto         | Estado |
+|-----------------------------------------------|----------------------------|-----|
+| Creación de pipelines con Python          | <a href="https://google.com">Data ETL Pipeline: Python-Powered Excel Wizard</a>| Finalizado |
+| Simulaciones en Física nuclear con C++    | <a href="https://google.com">Simulating n and gamma Particle Detection</a> | Finalizado |
+| Análisis Forense                          | <a href="https://google.com">Cibersecurity Training: picoCTF</a> | En curso |
+| Honeypots y detección de ataques | <a href="https://google.com">SOC Lab: Honeypots with Tpot</a>| En curso |
+| Razonamiento matemático | <a href="https://google.com">Living in the dark: Satelites that never see the light</a>| Finalizado |
 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Cursos
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
+| Curso | Estado | 
+| <a href="https://learn.microsoft.com/es-es/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/"> Configuración de operaciones de seguridad de SIEM mediante Microsoft Sentinel</a> | En curso |
+| <a href="https://learn.microsoft.com/es-es/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification">SC 200 Microsoft Certified: Security Operations Analyst Associate</a> | En curso |
+| <a href="https://learn.microsoft.com/es-es/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification">SC 900 Seguridad, cumplimiento y fundamentos de identidad de Microsoft</a> | En curso |
+|Introducción a Docker (CSIC) | Finalizado |   
+|<a href="https://learn.microsoft.com/es-es/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification">DP 600 Implementación de Soluciones Analíticas usando Microsoft Fabric</a> | Finalizado |
+|<a href="https://learn.microsoft.com/es-es/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">AZ-900 Fundamentos de Microsoft Azure</a> | Finalizado |
+|<a href="https://skillsforall.com/career-path/cybersecurity?courseLang=es-XL">Analista Junior en Ciberseguridad (CCST Cybersecurity) </a> | Finalizado |
+|<a href="https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin">Fundamentos Profesionales del Análisis de Datos</a> | Finalizado |
+|<a href="https://diegosouto.duckdns.org/publication/202212_ceinpro_machinelearningpython/">Machine Learning Aplicado usando Python</a> | Finalizado |
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+## Certificados
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
+| Certificado | Obtenido |
+| Configuración de operaciones de seguridad de SIEM mediante Microsoft Sentinel | No |
+| SC 200 Microsoft Certified: Security Operations Analyst Associate | No |
+| SC 900 Seguridad, cumplimiento y fundamentos de identidad de Microsoft | No |
+| DP 600 Implementación de Soluciones Analíticas usando Microsoft Fabric | No |
+| AZ-900 Fundamentos de Microsoft Azure | No |
+| Analista Junior en Ciberseguridad (CCST Cybersecurity) | No |

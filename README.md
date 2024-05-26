@@ -1,5 +1,5 @@
 # Bienvenid@. Soy José Manuel Moreno, un placer.
-Aquí tiene mi perfil de LinkedIn, por si quiere echarle un vistazo: 
+<justify>Aquí tiene mi perfil de LinkedIn, por si quiere echarle un vistazo: </juustify>
 
 <a href="https://www.linkedin.com/in/josemanuelmoreno2702/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -21,7 +21,6 @@ Mi formación la complemento con habilidades diversas, como el conocimiento de d
 Como científico, me siento atraído hacia problemas complicados que requieran de una forma de pensar ingeniosa, es por eso que me gustaría poder cambiar la investigación en el mundo académico por un puesto como analista en el mundo empresarial, idealmente como un analista de datos, analista BI, científico de datos o analista de ciberseguridad T1 en un SOC.
 
 ## Skills y Proyectos
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Proyecto         | Estado |
 |-----------------------------------------------|----------------------------|-----|

@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/josemanuelmoreno2702/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-En esta página de GitHub podrá ver una versión mucho más completa de mi perfil, la cual espero que complemente lo que ha podido ver en mi resume y mi perfil de LinkedIn, al cual habrá podido acceder desde el hipervínculo de mi resume o, si aún no lo ha hecho, con el botón que puede ver más arriba.
+<justify>En esta página de GitHub podrá ver una versión mucho más completa de mi perfil, la cual espero que complemente lo que ha podido ver en mi resume y mi perfil de LinkedIn, al cual habrá podido acceder desde el hipervínculo de mi resume o, si aún no lo ha hecho, con el botón que puede ver más arriba.</justify>
 
 En esta página tendrá enlaces a cada uno de mis proyectos (los cuales estarán escritos a un nivel más técnico. Intentaré de todos modos que sean comprensibles también para personas con algo menos de conocimiento técnico), así como los cursos que he realizado siempre y cuando estos hayan sido en una plataforma online.
 

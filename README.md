@@ -28,7 +28,7 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 | Simulaciones en Física nuclear con C++    | <a href="https://google.com">Simulating n and gamma Particle Detection</a> | Finalizado |
 | Análisis Forense                          | <a href="https://google.com">Cibersecurity Training: picoCTF</a> | En curso |
 | Honeypots y detección de ataques | <a href="https://google.com">SOC Lab: Honeypots with Tpot</a>| En curso |
-| Razonamiento matemático | <a href="https://google.com">Living in the dark: Satelites that never see the light</a>| Finalizado |
+| Razonamiento matemático | <a href="https://github.com/JoseManuelMdlV/Living-in-the-dark-Satelites-that-never-see-the-light/blob/main/README.md">Living in the dark: Satelites that never see the light</a>| Finalizado |
 
 
 ## Cursos

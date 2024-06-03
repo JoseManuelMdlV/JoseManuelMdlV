@@ -16,7 +16,7 @@ Soy una persona muy curiosa que ya desde crío sentía una cierta atracción hac
 Mi formación la complemento con habilidades diversas, como el conocimiento de diversos lenguajes de programación orientado a algoritmos para cálculo científico, tratamiento de datos y Machine Learning, conocimiento en informática, ciberseguridad y bases de datos.
 
 
-## Objective
+## Objetivo
 
 Como científico, me siento atraído hacia problemas complicados que requieran de una forma de pensar ingeniosa, es por eso que me gustaría poder cambiar la investigación en el mundo académico por un puesto como analista en el mundo empresarial, idealmente como un analista de datos, analista BI, científico de datos o analista de ciberseguridad T1 en un SOC.
 

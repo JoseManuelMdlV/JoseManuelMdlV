@@ -28,7 +28,7 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 | Informes con Power BI |  <a href="https://github.com/JoseManuelMdlV/Luck-in-RPGs-Talent-vs-Effort-with-PowerBI/blob/main/README.md">Luck in RPGs: Talent vs Effort with PowerBI </a> | Finalizado |
 | Análisis Forense                          | <a href="https://google.com">Cibersecurity Training: picoCTF</a> | En curso |
 | Análisis de Vulnerabilidades     | <a href="https://github.com/JoseManuelMdlV/Recovering-a-Privileged-Account-Privilege-Escalation-Threat/blob/main/README.md">Recovering a Privileged Account: Privilege Escalation?</a> | Finalizado |
-| Honeypots y detección de ataques | <a href="https://google.com">SOC Lab: Honeypots with Tpot</a>| En curso |
+| Honeypots y detección de ataques | <a href="https://github.com/JoseManuelMdlV/SOC-Lab-Honeypots-with-Tpot/blob/main/README.md">SOC Lab: Honeypots with Tpot</a>| En curso |
 | Razonamiento matemático | <a href="https://github.com/JoseManuelMdlV/Living-in-the-dark-Satelites-that-never-see-the-light/blob/main/README.md">Living in the dark: Satelites that never see the light</a>| Finalizado |
 
 

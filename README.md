@@ -26,6 +26,7 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 |-----------------------------------------------|----------------------------|-----|
 | Creación de pipelines con Python          | <a href="https://github.com/JoseManuelMdlV/Data-ETL-Pipeline-Python-Powered-Excel-Wizard/blob/main/README.md">Data ETL Pipeline: Python-Powered Excel Wizard</a>| Finalizado |
 | Informes con Power BI |  <a href="https://github.com/JoseManuelMdlV/Luck-in-RPGs-Talent-vs-Effort-with-PowerBI/blob/main/README.md">Luck in RPGs: Talent vs Effort with PowerBI </a> | Finalizado |
+| Directorio Activo, SIEM | <a href="https://github.com/JoseManuelMdlV/Soc-Lab-Recognizing-attacks-to-an-active-directory-with-Splunk/blob/main/README.md">SOC Lab: Recognizing attacks to an active directory with Splunk</a> | En curso |
 | Análisis Forense                          | <a href="https://google.com">Cibersecurity Training: picoCTF</a> | En curso |
 | Análisis de Vulnerabilidades     | <a href="https://github.com/JoseManuelMdlV/Recovering-a-Privileged-Account-Privilege-Escalation-Threat/blob/main/README.md">Recovering a Privileged Account: Privilege Escalation?</a> | Finalizado |
 | Honeypots y detección de ataques | <a href="https://github.com/JoseManuelMdlV/SOC-Lab-Honeypots-with-Tpot/blob/main/README.md">SOC Lab: Honeypots with Tpot</a>| En curso |

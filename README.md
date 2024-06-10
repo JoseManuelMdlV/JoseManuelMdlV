@@ -1,5 +1,5 @@
 # Bienvenid@. Soy José Manuel Moreno, un placer.
-Aquí tiene mi perfil de LinkedIn, por si quiere echarle un vistazo:
+Aquí tiene mi perfil de LinkedIn, el cual invito a ver en tanto que posee mucha más información referente a mi experiencia laboral:
 
 <a href="https://www.linkedin.com/in/josemanuelmoreno2702/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

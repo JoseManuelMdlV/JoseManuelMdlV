@@ -24,6 +24,7 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 
 | Skill                                         | Proyecto         | Estado |
 |-----------------------------------------------|----------------------------|-----|
+| IA: Reconocimiento de Imagen              |  IAs can solve captchas too | Finalizado |
 | Creación de pipelines con Python          | <a href="https://github.com/JoseManuelMdlV/Data-ETL-Pipeline-Python-Powered-Excel-Wizard/blob/main/README.md">Data ETL Pipeline: Python-Powered Excel Wizard</a>| Finalizado |
 | Informes con Power BI |  <a href="https://github.com/JoseManuelMdlV/Luck-in-RPGs-Talent-vs-Effort-with-PowerBI/blob/main/README.md">Luck in RPGs: Talent vs Effort with PowerBI </a> | Finalizado |
 | Informes con Power BI |  <a href="https://github.com/JoseManuelMdlV/Sales-of-a-textile-store-Analyzing-Data-with-Power-BI">Sales of a Textile store: Analyzing data with PowerBI </a> | Finalizado |
@@ -41,9 +42,8 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 |-------|--------|
 | <a href="https://learn.microsoft.com/es-es/credentials/applied-skills/configure-siem-security-operations-using-microsoft-sentinel/"> Configuración de operaciones de seguridad de SIEM mediante Microsoft Sentinel</a> | En curso |
 | <a href="https://learn.microsoft.com/es-es/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification">SC 200 Microsoft Certified: Security Operations Analyst Associate</a> | En curso |
-| <a href="https://learn.microsoft.com/es-es/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification">SC 900 Seguridad, cumplimiento y fundamentos de identidad de Microsoft</a> | En curso |
+| <a hreg="https://my.ine.com/CyberSecurity/learning-paths/61f88d91-79ff-4d8f-af68-873883dbbd8c/penetration-testing-student"> Junior Penetration Tester </a> | Finalizado |
 |Introducción a Docker (CSIC) | Finalizado |   
-|<a href="https://learn.microsoft.com/es-es/credentials/certifications/fabric-analytics-engineer-associate/?practice-assessment-type=certification">DP 600 Implementación de Soluciones Analíticas usando Microsoft Fabric</a> | Finalizado |
 |<a href="https://learn.microsoft.com/es-es/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification">AZ-900 Fundamentos de Microsoft Azure</a> | Finalizado |
 |<a href="https://skillsforall.com/career-path/cybersecurity?courseLang=es-XL">Analista Junior en Ciberseguridad (CCST Cybersecurity) </a> | Finalizado |
 |<a href="https://www.linkedin.com/learning/paths/fundamentos-profesionales-del-analisis-de-datos-por-microsoft-y-linkedin">Fundamentos Profesionales del Análisis de Datos</a> | Finalizado |
@@ -53,9 +53,9 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 
 | Certificado | Obtenido |
 |-------------|----------|
+| Analista Junior en Ciberseguridad (CCST Cybersecurity) | Sí |
+| Junior Penetration Tester (eJPTv2) | Sí |
+| ET-80 Sophos Engineer | Sí |
 | Configuración de operaciones de seguridad de SIEM mediante Microsoft Sentinel | No |
 | SC 200 Microsoft Certified: Security Operations Analyst Associate | No |
-| SC 900 Seguridad, cumplimiento y fundamentos de identidad de Microsoft | No |
-| DP 600 Implementación de Soluciones Analíticas usando Microsoft Fabric | No |
 | AZ-900 Fundamentos de Microsoft Azure | No |
-| Analista Junior en Ciberseguridad (CCST Cybersecurity) | No |

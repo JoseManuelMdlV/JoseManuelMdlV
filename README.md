@@ -24,7 +24,7 @@ Como científico, me siento atraído hacia problemas complicados que requieran d
 
 | Skill                                         | Proyecto         | Estado |
 |-----------------------------------------------|----------------------------|-----|
-| IA: Reconocimiento de Imagen              |  IAs can solve captchas too | Finalizado |
+| IA: Reconocimiento de Imagen              |  <a href="https://github.com/JoseManuelMdlV/IAs-can-solve-captchas-too/blob/main/README.md">IAs can solve captchas too</a> | Finalizado |
 | Creación de pipelines con Python          | <a href="https://github.com/JoseManuelMdlV/Data-ETL-Pipeline-Python-Powered-Excel-Wizard/blob/main/README.md">Data ETL Pipeline: Python-Powered Excel Wizard</a>| Finalizado |
 | Informes con Power BI |  <a href="https://github.com/JoseManuelMdlV/Luck-in-RPGs-Talent-vs-Effort-with-PowerBI/blob/main/README.md">Luck in RPGs: Talent vs Effort with PowerBI </a> | Finalizado |
 | Informes con Power BI |  <a href="https://github.com/JoseManuelMdlV/Sales-of-a-textile-store-Analyzing-Data-with-Power-BI">Sales of a Textile store: Analyzing data with PowerBI </a> | Finalizado |
